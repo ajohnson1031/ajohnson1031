@@ -5,7 +5,7 @@ A full stack web developer who loves clean code.
 ```julia
 const aboutMe = {
   pronouns: ["He", "Him"],
-  tech_stack: ["React.js", "Node.js", "Python", "PostgreSQL"],
+  tech_stack: ["React.js", "Redux", "Node.js", "Python", "PostgreSQL"],
   hobbies: ["Coding", "Working Out", "Reading", "Gaming"],
   funFact: "I've read the entire Wheel of Time series! #ThankYouRobertJordan";
 }
@@ -23,6 +23,10 @@ const aboutMe = {
       <td width="25%" align="center">
         <span>React.js</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Redux</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="25%" align="center">
         <span>Node.js</span><br><br>
