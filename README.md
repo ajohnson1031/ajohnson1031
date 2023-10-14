@@ -5,7 +5,7 @@ A full stack web developer who loves clean code.
 ```julia
 const aboutMe = {
   pronouns: ["He", "Him"],
-  tech_stack: ["React.js", "Redux", "Node.js", "Python", "PostgreSQL"],
+  tech_stack: ["Nextt.js", "React.js", "Redux", "Node.js", "TypeScript", "Git, "Postgres", "Tailwind"],
   hobbies: ["Coding", "Working Out", "Reading", "Gaming"],
   funFact: "I've read the entire Wheel of Time series! #ThankYouRobertJordan";
 }
