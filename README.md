@@ -1,12 +1,25 @@
 # Hi, I'm Aaron!
 
-A full stack web developer who loves clean code.
+A dedicated software engineer who loves clean code.
 
-```julia
+```
 const aboutMe = {
   pronouns: ["He", "Him"],
-  tech_stack: ["Next.js", "React.js", "Redux", "Node.js", "TypeScript", "Git", "Postgres", "Tailwind"],
-  hobbies: ["Coding", "Working Out", "Reading", "Gaming"],
+  skills: {
+    Frontend Frameworks: "Next.js", "React.js",  
+    API: "Node.js", "Python",
+    State Mgmt: "Redux", "Context API", "Jotai",
+    DB Mgmt: "Postgres", "SQLite", "Knex", "MySQL", "DBAdmin",
+    Resource Mgmt: "AWS S3", "UploadThing",
+    Styling: "Tailwind", "SASS", "LESS",
+    Version Control: "Git",
+    Testing: "Jest", "Enzyme",
+    CI/CD: "Jenkins", "CircleCI",
+    UX/UI: "PhotoShop", "Illustrator", "XD", "Figma",
+    Component Libraries: "Storybook",
+    Agile Program Mgmt: "Jira"
+  },
+  hobbies: ["Coding", "Working Out", "Reading", "Gaming", "Guitar"],
   funFact: "I've read the entire Wheel of Time series! #ThankYouRobertJordan";
 }
 ```
