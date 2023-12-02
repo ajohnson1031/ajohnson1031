@@ -9,6 +9,7 @@ const aboutMe = {
     Frontend Frameworks: "Next.js", "React.js",  
     API: "Node.js", "Python",
     State Mgmt: "Redux", "Context API", "Jotai",
+    Authentication: "JWT", "Sessions", "Clerk",
     DB Mgmt: "Postgres", "SQLite", "Knex", "MySQL", "DBAdmin",
     Resource Mgmt: "AWS S3", "UploadThing",
     Styling: "Tailwind", "SASS", "LESS",
@@ -24,75 +25,18 @@ const aboutMe = {
 }
 ```
 
-<br>
-
-## Relevant Tech Stack
+## Currently Employed At
 
 #
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Next.js</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React.js</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Node.js</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-       <td width="25%" align="center">
-        <span>Redux</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-       <td align="center">
-        <span>Jotai</span><br><br>
-         <img width="102px" height="35px" src="https://github.com/ajohnson1031/ajohnson1031/assets/33072719/070450d9-b1e0-45c4-9692-cbf616e6ead8">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣ostgreSQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-## My Tools
-
-#
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Git</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>VS Code</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
+JPMorgan Chase & Co., Software Engineer II
 
 ## Currently Working On
 
 #
 
-- A top secret React Native project utilizing XRP Ledger Protocol (Blockchain) and AWS Cognito. Contact me to obtain a clearance level.
+- Work: Internal processing tools.
+- Personal: ```["A project that uses Blockchain technology (ask me for more information)", "Threads Clone"]```
 
 <br>
 
@@ -106,7 +50,7 @@ const aboutMe = {
 
 # What I Will Do This Week
 
-Continue work on most top secretest of projects.
+Continue working on personal projects.
 
 <br>
 
