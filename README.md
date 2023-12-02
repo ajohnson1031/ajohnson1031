@@ -38,6 +38,10 @@ const aboutMe = {
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
+        <span>React.js</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
         <span>Redux</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
