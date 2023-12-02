@@ -42,16 +42,20 @@ const aboutMe = {
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>Redux</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-      <td width="25%" align="center">
         <span>Node.js</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>Redux</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>Jotai</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jotai.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣ostgreSQL</span><br><br>
