@@ -53,7 +53,7 @@ const aboutMe = {
         <span>Redux</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
-       <td width="25%" align="center">
+       <td align="center">
         <span>Jotai</span><br><br>
          <img width="102px" height="35px" src="https://github.com/ajohnson1031/ajohnson1031/assets/33072719/070450d9-b1e0-45c4-9692-cbf616e6ead8">
       </td>
