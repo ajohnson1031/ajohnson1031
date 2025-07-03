@@ -10,10 +10,10 @@ const aboutMe = {
     API: "Node.js", "Python",
     State Mgmt: "Redux", "Context API", "Jotai",
     Authentication: "JWT", "Sessions", "Clerk",
-    DB Mgmt: "Postgres", "SQLite", "Knex", "MySQL", "DBAdmin",
+    DB Mgmt: "Postgres", "SQLite", "Knex", "MySQL", "DBAdmin", "Prisma"
     Resource Mgmt: "AWS S3", "UploadThing",
-    Styling: "Tailwind", "SASS", "LESS",
-    Version Control: "Git",
+    Styling: "Tailwind", "SASS", "LESS", "CSS"
+    Version Control: "Git"
     Testing: "Jest", "Enzyme",
     CI/CD: "Jenkins", "CircleCI",
     UX/UI: "PhotoShop", "Illustrator", "XD", "Figma",
