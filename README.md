@@ -11,7 +11,7 @@ const aboutMe = {
     State Mgmt: "Redux", "Context API", "Jotai",
     Authentication: "JWT", "Sessions", "Clerk",
     DB Mgmt: "Postgres", "SQLite", "Knex", "MySQL", "DBAdmin", "Prisma"
-    Resource Mgmt: "AWS S3", "UploadThing",
+    Resource Mgmt: "AWS S3", "UploadThing", "Cloudinary"
     Styling: "Tailwind", "SASS", "LESS", "CSS"
     Version Control: "Git"
     Testing: "Jest", "Enzyme",
